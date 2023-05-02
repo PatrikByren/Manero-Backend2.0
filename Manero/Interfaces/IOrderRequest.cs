@@ -1,6 +1,6 @@
 ﻿namespace Manero.Interfaces
 {
-    public interface IOrderRequest
+    public interface IOrderRequest : IOrder
     {
     }
 }
