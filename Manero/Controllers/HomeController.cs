@@ -7,6 +7,6 @@ namespace Manero.Controllers
     [ApiController]
     public class HomeController : ControllerBase
     {
-        //TESTING
+        //TESTING hejhej
     }
 }
